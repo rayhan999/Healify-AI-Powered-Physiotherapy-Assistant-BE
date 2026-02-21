@@ -61,6 +61,8 @@ This is the backend API service for Healify, an AI-powered physiotherapy assista
 5. The API will be available at `http://127.0.0.1:8000`. You can view the interactive API documentation (Swagger UI) at `http://127.0.0.1:8000/docs`.
 
 ## Contributions
+*The original Healify repository is private as it contains sensitive code and ongoing work by the team. However, I've created separate public repositories that showcase my specific contributions to the project.*
+
 I was responsible for nearly all core development across the full stack. 
 
 For the **Backend**, my primary contributions include:
