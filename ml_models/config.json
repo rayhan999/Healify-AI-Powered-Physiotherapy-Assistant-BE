@@ -1,0 +1,10 @@
+{
+  "sequence_length": 50,
+  "n_features": 132,
+  "latent_dim": 32,
+  "threshold": 0.012545371918988267,
+  "n_train_samples": 9,
+  "n_val_samples": 3,
+  "final_train_loss": 0.015104108490049839,
+  "final_val_loss": 0.010542650707066059
+}
